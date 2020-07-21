@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["elements", 4, false, :eleven]
+  ["hi", 4, false, :eleven]
 end
 
 def add_element_to_end_of_array(array, element)
